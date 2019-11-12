@@ -12,8 +12,8 @@ $linked->insert(1);
 $linked->insert(2);
 $linked->insert(3);
 $linked->insert(4);
-$linked->delete(2);
+$linked->delete(4);
 $linked->insert(5);
 
-var_dump($linked->getNodeByIndex(3));
+var_dump($linked->getNodeByIndex(4));
 echo PHP_EOL . $linked->getLength();
