@@ -1,6 +1,6 @@
 <?php
 
-require_once '..'. DIRECTORY_SEPARATOR .'autoload.php';
+require __DIR__. DIRECTORY_SEPARATOR. 'Stru'. DIRECTORY_SEPARATOR .'autoload.php';
 
 use stru\arr\ArrayList;
 

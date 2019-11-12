@@ -1,6 +1,6 @@
 <?php
 
-namespace stru\arr;
+namespace Stru\Arr;
 
 class ArrayList
 {
